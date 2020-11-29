@@ -1,0 +1,23 @@
+.article {
+  max-width: 450px;
+  margin: 30px auto;
+  background: rgb(170, 168, 168);
+  box-shadow: 0 25px 25px;
+}
+
+.artikle-photo {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+.artikle-content {
+  padding: 30px;
+}
+
+.artikle-footer {
+  margin: 0;
+  padding: 0;
+  color: rgb(121, 130, 148);
+  list-style: none;
+}
